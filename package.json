@@ -1,0 +1,22 @@
+{
+  "name": "csci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZenStein/csci.git"
+  },
+  "author": "",
+  "license": "ISC",
+	"bin":{
+		"csci": "./index.js"
+	},
+  "bugs": {
+    "url": "https://github.com/ZenStein/csci/issues"
+  },
+  "homepage": "https://github.com/ZenStein/csci#readme"
+}
